@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name     = 'AFNetworking'
   s.version  = '4.0.1'
   s.license  = 'MIT'
-  s.summary  = 'A delightful networking framework for Apple platforms.'
+  s.summary  = 'A delightful networking framework for Apple platforms. add 123456789'
   s.homepage = 'https://github.com/hhappyFile/AFNetworking'
   s.social_media_url = 'https://twitter.com/AFNetworking'
   s.authors  = { 'Mattt Thompson' => 'm@mattt.me' }
